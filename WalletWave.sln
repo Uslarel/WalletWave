@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletWave", "WalletWave\WalletWave.csproj", "{465CFCE0-4593-44A9-A5FB-FB986E92D96F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletWave", "WalletWave\WalletWave.csproj", "{5F120C40-9D4C-42C4-B2C1-B6E217984E1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{465CFCE0-4593-44A9-A5FB-FB986E92D96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{465CFCE0-4593-44A9-A5FB-FB986E92D96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{465CFCE0-4593-44A9-A5FB-FB986E92D96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{465CFCE0-4593-44A9-A5FB-FB986E92D96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F120C40-9D4C-42C4-B2C1-B6E217984E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F120C40-9D4C-42C4-B2C1-B6E217984E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F120C40-9D4C-42C4-B2C1-B6E217984E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F120C40-9D4C-42C4-B2C1-B6E217984E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
